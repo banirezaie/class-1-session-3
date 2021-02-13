@@ -1,0 +1,14 @@
+/** @format */
+
+main {
+  background-color: #ddd;
+}
+
+.navBar {
+  list-style-type: none;
+}
+
+.fig {
+  width: 300px;
+  height: 200px;
+}
